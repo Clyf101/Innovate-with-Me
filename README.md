@@ -28,5 +28,5 @@ This website was built using the following technologies:
 - React
 
 ## Links
-https://clyf101.github.io/Innovate-with-Me/
-https://github.com/Clyf101/Innovate-with-Me
+- https://clyf101.github.io/Innovate-with-Me/
+- https://github.com/Clyf101/Innovate-with-Me
