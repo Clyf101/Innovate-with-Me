@@ -1,0 +1,29 @@
+.sidebar {
+    position: sticky;
+    top: 0;
+    height: 100vh;
+    overflow-y: auto;
+  }
+  
+  .nav-link {
+    cursor: pointer;
+    padding: 10px;
+    margin: 10px;
+  }
+  
+  .nav-link:hover {
+    color: #cf1e1e;
+    
+  }
+  .navbar {
+    padding: 10px;
+    margin: 10px;
+  }
+  .sidebar a.btn {
+    background-color: rgb(175, 175, 175);
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+  }
+    
