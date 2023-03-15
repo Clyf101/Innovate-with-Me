@@ -23,7 +23,7 @@ This website includes the following features:
 This website was built using the following technologies:
 
 - HTML
-- CSS
+- Bootstrap
 - JavaScript
 - React
 
